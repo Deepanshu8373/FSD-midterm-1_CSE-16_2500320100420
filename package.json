@@ -1,0 +1,25 @@
+{
+  "name": "fsd-midterm-1_cse-16_2500320100420",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deepanshu8373/FSD-midterm-1_CSE-16_2500320100420.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Deepanshu8373/FSD-midterm-1_CSE-16_2500320100420/issues"
+  },
+  "homepage": "https://github.com/Deepanshu8373/FSD-midterm-1_CSE-16_2500320100420#readme",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
